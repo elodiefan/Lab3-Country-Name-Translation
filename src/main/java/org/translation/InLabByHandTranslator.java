@@ -36,7 +36,7 @@ public class InLabByHandTranslator implements Translator {
 
     /**
      * Returns the country abbreviations for all countries whose translations are
-     * available from this Translator.
+     * available from this Translator
      *
      * @return list of country abbreviations for which we have translations available
      */
